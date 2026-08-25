@@ -1,1 +1,49 @@
 site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Toggle dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Toggle light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Toggle auto
+markdown_extensions:
+- pymdownx.escapeall:
+    hardbreak: true
+    nbsp: true
+
+extra:
+  generator: false
+
+nav:
+  - Creation Instruction: guide-creation-instructions.md
+  - Intro: index.md
+  - FAQ: faq.md
+  - SSD:
+    - ssd/index.md
+    - Resources: ssd/resources.md
+    - Role 1:
+      - ssd/role-1/index.md
+      - Diamond Store: ssd/role-1/diamond-store.md
+      - Art Gallery: ssd/role-1/art-gallery.md
+      - Swepot: ssd/role-1/swepot.md
+      - Shadow Raid: ssd/role-1/shadow-raid.md

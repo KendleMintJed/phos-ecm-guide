@@ -19,11 +19,11 @@ This guard could also spawn at the docks like shown in this second picture.
 
 7. Proceed with opening your garages right to left. During this process follow the path of line and use the yellow points as where to stay for faster door opening.
 
-Why yellow points? There's a delay between door swap's. You can stand on the yellow point and start moving to the left side (pressing A while facing the garage doors) as the interaction is around %80.
+Why yellow points? There's a delay between door swap's. You can stand on the yellow point and start moving to the left side (pressing A while facing the garage doors) as the interaction is around 80%.
 
 This way you'll end up on the second door without losing your time on door swap delay because you started moving towards the left side as your interaction closes to an end.
 
-8. As you are looting your garages, throw the loot towards the blue burlap corner. 
+8. As you are looting your garages, throw the loot towards the blue burlap corner.
 
 Make sure to juggle the bags thrown in your path by R4!
 
