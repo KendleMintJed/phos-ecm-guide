@@ -1,4 +1,5 @@
 # Shadow Raid (SR)
+
 Shadow Raid is featured on the "No Gamepass, No Booster" and "Booster/Gamepass" versions of SSD.
 
 1. At the beginning, mask up, shoot your gun, run forward, turn back, boost your teammates, run towards the entrance, and use your molotov at the yellow circle.

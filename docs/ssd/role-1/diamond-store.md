@@ -1,4 +1,5 @@
 # Diamond Store Minimum (DS)
+
 Diamond Store Minimum is featured on the "Booster/Gamepass" and "Booster and Gamepass" versions of SSD
 
 1. At the beginning, mask up, run towards the diamond store

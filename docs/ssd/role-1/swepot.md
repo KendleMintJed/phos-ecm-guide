@@ -1,4 +1,5 @@
 # Sweepot
+
 Sweepot is featured on all 3 versions of SSD
 
 1. At the beginning, mask up, run forward, turn back, boost your teammates, run towards the corner, and use your molotov at the middle of the warehouse entrance.
