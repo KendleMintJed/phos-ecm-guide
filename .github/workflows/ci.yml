@@ -1,7 +1,4 @@
 name: ci
-
-You can change the name to your liking.
-
 on:
   push:
     branches:
