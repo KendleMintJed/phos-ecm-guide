@@ -13,6 +13,14 @@ Armor: Suit
 
 ### Pre-skilling
 
+![](media/pre-skills.png)
+
 ### Skill Break 1
 
+![](media/skillbreak1-enforcer.png)
+![](media/skillbreak1-mastermind.png)
+![](media/skillbreak1-ghost.png)
+
 ### Skill Break 2
+
+![](media/skillbreak2-technician.png)

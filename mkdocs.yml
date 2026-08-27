@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Pho's ECM Rush Guide
 theme:
   name: material
   features:
@@ -6,11 +6,11 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
     - navigation.footer
     - toc.follow
-    - toc.integrate
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -27,9 +27,13 @@ theme:
         icon: material/brightness-7
         name: Toggle auto
 markdown_extensions:
-- pymdownx.escapeall:
-    hardbreak: true
-    nbsp: true
+  - attr_list
+  - md_in_html
+  - pymdownx.escapeall:
+      hardbreak: true
+      nbsp: true
+  - pymdownx.fancylists
+  - pymdownx.saneheaders
 
 extra:
   generator: false
@@ -45,5 +49,20 @@ nav:
       - ssd/role-1/index.md
       - Diamond Store: ssd/role-1/diamond-store.md
       - Art Gallery: ssd/role-1/art-gallery.md
-      - Swepot: ssd/role-1/swepot.md
+      - Sweepot: ssd/role-1/sweepot.md
       - Shadow Raid: ssd/role-1/shadow-raid.md
+      - Nightclub: ssd/role-1/nightclub.md
+    - Role 2:
+      - ssd/role-2/index.md
+      - Diamond Store: ssd/role-2/diamond-store.md
+      - Art Gallery: ssd/role-2/art-gallery.md
+      - Sweepot: ssd/role-2/sweepot.md
+      - Shadow Raid: ssd/role-2/shadow-raid.md
+      - Nightclub: ssd/role-2/nightclub.md
+    - Role 3:
+      - ssd/role-3/index.md
+      - Diamond Store: ssd/role-3/diamond-store.md
+      - Art Gallery: ssd/role-3/art-gallery.md
+      - Sweepot: ssd/role-3/sweepot.md
+      - Shadow Raid: ssd/role-3/shadow-raid.md
+      - Nightclub: ssd/role-3/nightclub.md
