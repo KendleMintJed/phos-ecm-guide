@@ -10,11 +10,13 @@
 !!! ecm
     at **1:10** on the timer
 
+<div class="dark-tab" markdown="1">
 === "Default"
     ![](media/art-gallery/summary-1.png)
 
 === "Top-left Alarm"
     ![](media/art-gallery/summary-2.png)
+</div>
 
 1. SW and enter the gallery
 
