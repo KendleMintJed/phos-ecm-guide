@@ -1,8 +1,8 @@
 site_name: Pho's ECM Rush Guide
 theme:
   name: material
-  favicon: favicon.png
-  logo: ecm.svg
+  favicon: media/favicon.png
+  logo: media/ecm.svg
   features:
     - navigation.instant
     - navigation.instant.progress
