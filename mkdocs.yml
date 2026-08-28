@@ -66,3 +66,21 @@ nav:
       - Sweepot: ssd/role-3/sweepot.md
       - Shadow Raid: ssd/role-3/shadow-raid.md
       - Nightclub: ssd/role-3/nightclub.md
+  - NCDR:
+    - ncdr/index.md
+    - Resources: ncdr/resources.md
+    - Role 1:
+      - ncdr/role-1/index.md
+      - Depot: ncdr/role-1/depot.md
+      - Nightclub: ncdr/role-1/nightclub.md
+      - Rush Hour: ncdr/role-1/rush-hour.md
+    - Role 2:
+      - ncdr/role-2/index.md
+      - Depot: ncdr/role-2/depot.md
+      - Nightclub: ncdr/role-2/nightclub.md
+      - Rush Hour: ncdr/role-2/rush-hour.md
+    - Role 3:
+      - ncdr/role-3/index.md
+      - Depot: ncdr/role-3/depot.md
+      - Nightclub: ncdr/role-3/nightclub.md
+      - Rush Hour: ncdr/role-3/rush-hour.md
