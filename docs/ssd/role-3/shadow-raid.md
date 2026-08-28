@@ -38,6 +38,11 @@
 
     ![](media/shadow-raid/7.png)
 
-8. Secure the bags by throwing them over this wall
+8. Secure the bags into the van
+
+    !!! info
+        r3 is responsible for the 2nd position from the front of the bag moving chain. This will usually be from the red container to the wall.
+
+        if bags are not thrown directly into the van from the wall, the 1st position may jump over to secure those bags, moving your 2nd position forward to the wall.
 
     ![](media/shadow-raid/8.png)
