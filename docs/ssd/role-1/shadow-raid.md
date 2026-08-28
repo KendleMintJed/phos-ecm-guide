@@ -33,9 +33,11 @@ Hold down the sentry placement right after you enter through the single door.
 
 7. To start searching for keys you must check the docks guard first.
 
-Important note: Key Guards CAN spawn anywhere in the map.
-For each key you grab call-out "Yes!" by pressing your middle mouse button once (Scroll button).
-If the keycard was found outside R4 will grab it. If R2 has the second one you will have to switch roles with R4 and continue opening red containers outside.
+    !!! info "Note"
+
+        Key Guards CAN spawn anywhere in the map.
+        For each key you grab call-out "Yes!" by pressing your middle mouse button once (Scroll button).
+        If the keycard was found outside R4 will grab it. If R2 has the second one you will have to switch roles with R4 and continue opening red containers outside.
 
 ![](media/shadow-raid/7-1.jpg)
 ![](media/shadow-raid/7-2.jpg)

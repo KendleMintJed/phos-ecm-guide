@@ -17,7 +17,9 @@ Sweepot is featured on all 3 versions of SSD.\
 ![](media/sweepot/2-6.png)
 ![](media/sweepot/2-7.png)
 
-(Note: remembering all of these key spawns can be pretty difficult, it’s highly recommended that you practice key finding pathing until you develop consistency. You will also loot key spawns in that order
+!!! info "Note"
+
+    remembering all of these key spawns can be pretty difficult, it’s highly recommended that you practice key finding pathing until you develop consistency. You will also loot key spawns in that order
 
 If you grab your two ground keys before finish key find pathing, you can then stop searching for keys)
 
@@ -30,7 +32,8 @@ Also look out for potential loot spawns (loot you will grab will be circled in g
 
 ![](media/sweepot/3.png)
 
-(Tip: Look out for the exclamation marks on top of the guard. This can help you pinpoint the exact location of the guard. The guard also has a chance to go outside through upstairs or downstairs (Blue path shows potential guard pathing))
+!!! tip
+    Look out for the exclamation marks on top of the guard. This can help you pinpoint the exact location of the guard. The guard also has a chance to go outside through upstairs or downstairs (Blue path shows potential guard pathing)
 
 4. After looting all your keys and loot spawns, you will exit transport and make your way to 3g. Make sure to constantly slide and maintain sw uptake when moving distances.
 
@@ -44,7 +47,9 @@ Also look out for potential loot spawns (loot you will grab will be circled in g
 
 After looting those garages, follow the green path, loot the last garage and proceed to move bags
 
-(Note: It is important to keep track of the timer to know when you will ECM. Typically at 3g, you will place your first ECM then, at 50s, so be aware of that)
+!!! info "Note"
+
+    It is important to keep track of the timer to know when you will ECM. Typically at 3g, you will place your first ECM then, at 50s, so be aware of that
 
 ![](media/sweepot/5.png)
 

@@ -36,6 +36,10 @@ After Diamond Store / before Art Gallery
 
 After Art Gallery / before Sweepot
 
-![](media/skillbreak2.png)\
-You can use any other skills as you wish as long as you follow these skill breaks\
-NOTE: Do NOT use the “Leader” skill in the mastermind tree.
+![](media/skillbreak2.png)
+
+You can use any other skills as you wish as long as you follow these skill breaks
+
+!!! warning
+
+    Do NOT use the “Leader” skill in the mastermind tree.

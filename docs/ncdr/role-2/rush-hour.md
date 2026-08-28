@@ -64,12 +64,16 @@ This is the code you have to input:
 
 ![](media/rush-hour/code.png)
 
-Note: players may omit training spaces. so 2s-- becomes just 2s
+!!! info "Note"
+
+    players may omit training spaces. so 2s-- becomes just 2s
 
 You can use this website to practice entering the server code in the keypad:\
 <https://avivendolius.github.io/Hexcode-Practice-For-Role-2-v1.1/>
 
-Note: It’s important to know which of your teammates you can chat with in Roblox before starting a rot. This way you will know if they can communicate the code to you through Roblox chat or if they have to send it through the lobby thread and decide what method to use.
+!!! info "Note"
+
+    It’s important to know which of your teammates you can chat with in Roblox before starting a rot. This way you will know if they can communicate the code to you through Roblox chat or if they have to send it through the lobby thread and decide what method to use.
 
 ---
 

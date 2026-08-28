@@ -1,6 +1,8 @@
 # Diamond Store (DS)
 
-[Video tutorial](https://youtu.be/Twpe6oLZU8I)
+??? youtube "[Video tutorial](https://youtu.be/Twpe6oLZU8I)"
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Twpe6oLZU8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Diamond Store is featured on the “Booster or gamepass” and “Booster and gamepass” versions of SSD.
 

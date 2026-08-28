@@ -31,11 +31,13 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - admonition
   - pymdownx.escapeall:
       hardbreak: true
       nbsp: true
   - pymdownx.fancylists
   - pymdownx.saneheaders
+  - pymdownx.details
 
 extra_css:
   - stylesheets/extra.css

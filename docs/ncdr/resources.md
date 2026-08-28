@@ -4,34 +4,78 @@
 
 ## NCDR Booster (Full Rotation)
 
-Role 1:\
-Role 2:\
-Role 3:\
-Role 4:
+??? youtube "Role 1 // TODO"
+
+    TODO
+
+??? youtube "Role 2 // TODO"
+
+    TODO
+
+??? youtube "Role 3 // TODO"
+
+    TODO
+
+??? youtube "Role 4 // TODO"
+
+    TODO
 
 ---
 
 ## Depot
 
-Role 1:\
-Role 2:\
-Role 3:\
-Role 4:
+??? youtube "Role 1 // TODO"
+
+    TODO
+
+??? youtube "Role 2 // TODO"
+
+    TODO
+
+??? youtube "Role 3 // TODO"
+
+    TODO
+
+??? youtube "Role 4 // TODO"
+
+    TODO
 
 ---
 
 ## Nightclub
 
-Role 1:\
-Role 2:\
-Role 3:\
-Role 4:
+??? youtube "Role 1 // TODO"
+
+    TODO
+
+??? youtube "Role 2 // TODO"
+
+    TODO
+
+??? youtube "Role 3 // TODO"
+
+    TODO
+
+??? youtube "Role 4 // TODO"
+
+    TODO
 
 ---
 
 ## Rush Hour
 
-Role 1:\
-Role 2:\
-Role 3:\
-Role 4:
+??? youtube "Role 1 // TODO"
+
+    TODO
+
+??? youtube "Role 2 // TODO"
+
+    TODO
+
+??? youtube "Role 3 // TODO"
+
+    TODO
+
+??? youtube "Role 4 // TODO"
+
+    TODO
