@@ -1,6 +1,8 @@
 site_name: Pho's ECM Rush Guide
 theme:
   name: material
+  favicon: favicon.png
+  logo: ecm.svg
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -34,6 +36,9 @@ markdown_extensions:
       nbsp: true
   - pymdownx.fancylists
   - pymdownx.saneheaders
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   generator: false
