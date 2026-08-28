@@ -1,8 +1,11 @@
-<div class="hero-chips">
-  <span class="chip chip--role">Role 3</span>
-  <span class="chip chip--rotation">SSD</span>
-  <span class="chip chip--variant">All Variants</span>
-</div>
+---
+tags:
+    - SSD
+    - Role 3
+    - No Booster, No Gamepass
+    - Booster/Gamepass
+    - Booster+Gamepass
+---
 
 # Sweepot
 

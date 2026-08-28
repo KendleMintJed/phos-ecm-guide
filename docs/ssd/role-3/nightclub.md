@@ -1,9 +1,11 @@
-<div class="hero-chips">
-  <span class="chip chip--role">Role 3</span>
-  <span class="chip chip--rotation">SSD</span>
-  <span class="chip chip--variant">Gamepass/Booster</span>
-  <span class="chip chip--variant">Gamepass+Booster</span>
-</div>
+---
+tags:
+    - SSD
+    - Role 3
+    - No Booster, No Gamepass
+    - Booster/Gamepass
+    - Booster+Gamepass
+---
 
 # Nightclub (NC)
 

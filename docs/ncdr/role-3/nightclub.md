@@ -1,5 +1,12 @@
-# Nightclub (NC)
+---
+tags:
+    - NCDR
+    - Role 3
+    - No Booster, No Gamepass
+    - Booster/Gamepass
+    - Booster+Gamepass
+---
 
-Nightclub is featured on all 3 versions of NCDR
+# Nightclub (NC)
 
 ++copy from finalised ssd nightclub++

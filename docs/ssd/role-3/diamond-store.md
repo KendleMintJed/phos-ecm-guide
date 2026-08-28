@@ -1,17 +1,20 @@
-<div class="hero-chips">
-  <span class="chip chip--role">Role 3</span>
-  <span class="chip chip--rotation">SSD</span>
-  <span class="chip chip--variant">All Variants</span>
-</div>
+---
+tags:
+    - SSD
+    - Role 3
+    - No Booster, No Gamepass
+    - Booster/Gamepass
+    - Booster+Gamepass
+---
 
 # Diamond Store (DS)
 
 === "Minimum"
 
-    <div class="hero-chips">
-        <span class="chip chip--variant">Gamepass/Booster</span>
-        <span class="chip chip--variant">Gamepass+Booster</span>
-    </div>
+    <nav class="md-tags">
+        <span class="md-tag">Gamepass/Booster</span>
+        <span class="md-tag">Gamepass+Booster</span>
+    </nav>
 
     1. If there is a guard at the front of the store, kill him to prevent a possible down
 
@@ -32,7 +35,8 @@
         You have about 13 seconds to escape after the alarm goes off
 
 === "Sweep"
-    <div class="hero-chips">
-        <span class="chip chip--variant">No Gamepass, No Booster</span>
-    </div>
+    <nav class="md-tags">
+        <span class="md-tag">No Booster, No Gamepass</span>
+    </nav>
+
     TODO
