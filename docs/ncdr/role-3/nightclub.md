@@ -9,4 +9,4 @@ tags:
 
 # Nightclub (NC)
 
-++copy from finalised ssd nightclub++
+--8<-- "docs/ssd/role-3/nightclub.md:9:38,49"
