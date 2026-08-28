@@ -2,7 +2,7 @@
 
 Depot is featured on all 3 versions of NCDR.
 
-**<u>READ THE SECTION BELOW</u>**
+**^^READ THE SECTION BELOW^^**
 
 ## Calling out bags
 
