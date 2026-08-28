@@ -1,39 +1,50 @@
+<div class="hero-chips">
+  <span class="chip chip--role">Role 3</span>
+  <span class="chip chip--rotation">SSD</span>
+  <span class="chip chip--variant">No Gamepass, No Booster</span>
+  <span class="chip chip--variant">Gamepass/Booster</span>
+</div>
+
 # Art Gallery (AG)
 
-Art Gallery is featured on the “No Gamepass, No Booster” and “Booster/Gamepass” versions of SSD\
-The left shows the default path, while the right shows the alternate path, with top-left alarm box.
+!!! ecm
+    at **1:10** on the timer
 
-![](media/art-gallery/summary-1.png)
-![](media/art-gallery/summary-2.png)
+=== "Default"
+    ![](media/art-gallery/summary-1.png)
 
-**ECM Times: 1:10**
+=== "Top-left Alarm"
+    ![](media/art-gallery/summary-2.png)
 
 1. SW and enter the gallery
 
-![](media/art-gallery/1.png)
+    ![](media/art-gallery/1.png)
 
 2. Run through the middle left room, disable the alarm and lasers if they spawn
 
-![](media/art-gallery/2-1.png)
-![](media/art-gallery/2-2.png)
+    ![](media/art-gallery/2-1.png)
+    ![](media/art-gallery/2-2.png)
 
 3. Run through the top left room and disable alarm if it spawns
 
-![](media/art-gallery/3.png)
+    ![](media/art-gallery/3.png)
 
-4. Disable lasers if they spawn,\
-loot these paintings and the statue
+4. Disable lasers if they spawn, loot these paintings and the statue
 
-![](media/art-gallery/4.png)
+    ![](media/art-gallery/4.png)
 
 5. Loot all paintings and statues in the top left room
 
-![](media/art-gallery/5.png)
+    ![](media/art-gallery/5.png)
 
-6. Move all bags to the bottom left room. If "Yes!" has not been called yet, loot all paintings and statues in this room and call "Yes!"
+6. Move all bags to the bottom left room.
 
-![](media/art-gallery/6.png)
+    !!! callout
+        Quickchat "Yes!" to signal that you are looting the bottom left room statues and paintings.
+        If Yes! has already been called, skip straight to moving bags.
+
+    ![](media/art-gallery/6.png)
 
 7. Secure all bags into the van
 
-![](media/art-gallery/7.png)
+    ![](media/art-gallery/7.png)

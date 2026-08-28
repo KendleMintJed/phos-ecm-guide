@@ -2,6 +2,10 @@
 
 Art Gallery is featured on the "No Gamepass, No Booster" and "Booster/Gamepass" versions of SSD
 
+!!! ecm
+
+    8 and 30s
+
 ![](media/art-gallery/summary.png)
 
 1. At the beginning, mask up, run forward, turn back, boost your teammates, run towards the entrance, and use your molotov at the red circle.

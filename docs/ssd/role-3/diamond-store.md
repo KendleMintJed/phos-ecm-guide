@@ -1,14 +1,26 @@
+<div class="hero-chips">
+  <span class="chip chip--role">Role 3</span>
+  <span class="chip chip--rotation">SSD</span>
+  <span class="chip chip--variant">Gamepass/Booster</span>
+  <span class="chip chip--variant">Gamepass+Booster</span>
+</div>
+
 # Diamond Store (DS)
 
-Diamond Store Minimum is featured on the “Booster/Gamepass” and “Booster and Gamepass” versions of SSD
+1. If there is a guard at the front of the store, kill him to prevent a possible down
 
-If there is a guard at the front of the store, kill him to prevent a possible down\
-Make sure not to shoot the glass behind and trigger alarm early
+    !!! warning
 
-![](media/diamond-store/entrance.png)
+        Make sure not to shoot the glass behind and trigger alarm early
 
-Enter the store, throw a molotov on the glass and grab these 2 bags
+    ![](media/diamond-store/entrance.png)
 
-![](media/diamond-store/summary.png)
+2. Enter the store, throw a molotov on the glass and grab these 2 bags
 
-Secure the bags into the van. You have about 13 seconds to escape after the alarm goes off
+    ![](media/diamond-store/summary.png)
+
+3. Secure the bags into the van.
+
+!!! info
+
+    You have about 13 seconds to escape after the alarm goes off

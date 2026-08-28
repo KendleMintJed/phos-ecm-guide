@@ -39,7 +39,10 @@ These are the skills you get when you return to the lobby to change heists for t
 
 ### Skill Break 3
 
-These are the skills you get when you return to the lobby to change heists for the third time.\
-You may be able to combine skill break 2&3 if you have an xp boost/xp gamepass.
+These are the skills you get when you return to the lobby to change heists for the third time.
+
+!!! note
+
+    You may be able to combine skill break 2&3 if you have an xp boost/xp gamepass.
 
 ![](media/skillbreak3.png)
