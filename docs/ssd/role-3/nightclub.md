@@ -12,16 +12,16 @@ tags:
 !!! warning
     Make sure the "VIP PARKING" asset has been bought to ensure the van spawns at the back of the nightclub
 
-![](/ssd/role-3/media/nightclub/assets.png)
+![](media/nightclub/assets.png)
 
 1. Enter the nightclub through the main entrance and navigate to the poker room
 
-    ![](/ssd/role-3/media/nightclub/1-1.png)
-    ![](/ssd/role-3/media/nightclub/1-2.png)
+    ![](media/nightclub/1-1.png)
+    ![](media/nightclub/1-2.png)
 
 2. Open the safe with an ECM:
 
-    ![](/ssd/role-3/media/nightclub/2.png)
+    ![](media/nightclub/2.png)
 
 === "Cash"
 
@@ -35,7 +35,7 @@ tags:
 
     4. Move your bags to the van and escape
 
-        ![](/ssd/role-3/media/nightclub/5.png)
+        ![](media/nightclub/5.png)
 
 === "Cola/Jewlery"
     <div class="dark-tab">
@@ -54,18 +54,18 @@ tags:
 
     3. If r4 has cash, go to their office safe and bag 1 cash, or move their bags if they throw any behind them
 
-        ![](/ssd/role-3/media/nightclub/3-1.png)
-        ![](/ssd/role-3/media/nightclub/3-2.png)
+        ![](media/nightclub/3-1.png)
+        ![](media/nightclub/3-2.png)
 
     4. Otherwise, help r2 move their bags in basement
 
         !!! warning
             If r4 is slower than you to his safe, he may still have cash, even though he has not quickchat yet. Make sure to check if he has reached his safe before heading to help r2.
 
-        ![](/ssd/role-3/media/nightclub/4-1.png)
-        ![](/ssd/role-3/media/nightclub/4-2.png)
-        ![](/ssd/role-3/media/nightclub/4-3.png)
+        ![](media/nightclub/4-1.png)
+        ![](media/nightclub/4-2.png)
+        ![](media/nightclub/4-3.png)
 
     5. Secure bags into the van and escape
 
-        ![](/ssd/role-3/media/nightclub/5.png)
+        ![](media/nightclub/5.png)
