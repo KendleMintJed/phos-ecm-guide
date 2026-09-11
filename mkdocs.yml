@@ -84,6 +84,13 @@ nav:
       - Sweepot: ssd/role-3/sweepot.md
       - Shadow Raid: ssd/role-3/shadow-raid.md
       - Nightclub: ssd/role-3/nightclub.md
+    - Role 4:
+      - ssd/role-4/index.md
+      - Diamond Store: ssd/role-4/diamond-store.md
+      - Art Gallery: ssd/role-4/art-gallery.md
+      - Sweepot: ssd/role-4/sweepot.md
+      - Shadow Raid: ssd/role-4/shadow-raid.md
+      - Nightclub: ssd/role-4/nightclub.md
   - NCDR:
     - ncdr/index.md
     - Resources: ncdr/resources.md
@@ -102,3 +109,8 @@ nav:
       - Depot: ncdr/role-3/depot.md
       - Nightclub: ncdr/role-3/nightclub.md
       - Rush Hour: ncdr/role-3/rush-hour.md
+    - Role 4:
+      - ncdr/role-4/index.md
+      - Depot: ncdr/role-4/depot.md
+      - Nightclub: ncdr/role-4/nightclub.md
+      - Rush Hour: ncdr/role-4/rush-hour.md
